@@ -25,3 +25,7 @@
 | Umut Sidar Tahtasakal | SQL developer |
 | Metin Akseki | Application developer |
 
+## How to run
+1. Install MySQL 8.0.16 or later.
+2. Run the scripts in `sql/` in order: 01 → 05.
+3. Start the application in `app/` (details in Phase 4).
